@@ -1,0 +1,844 @@
+"country","brand","sales"
+"China","Galaxy/Dove",706.0092943129
+"China","Nestle",241.7080253745
+"China","Kinder",208.0665111956
+"China","M&M's",202.748266107
+"China","Ferrero Rocher",170.1894719113
+"China","Snickers",169.387342914
+"China","Hershey's",111.4875930903
+"China","Cadbury",57.870356295
+"China","Co Co",50.2588148703
+"China","Godiva",45.2182436906
+"China","Ritter Sport",29.5558861697
+"China","Hsu-Fu-Chi",26.6661147658
+"China","Oreo",20.7661037491
+"China","Meiji",18.6961017028
+"China","Golden Monkey",16.7495096933
+"China","Bon o Bon",11.4312725603
+"China","Lindt",11.2109041873
+"China","Lotte",10.6981784004
+"China","Milka",6.7800188986
+"China","Toblerone",4.5910199993
+"China","Maltesers",4.1282451784
+"China","Bainuo",2.4108364184
+"China","Yili",0.5876505785
+"China","Le Conte",NA
+"China","Marveille",NA
+"China","Kit Kat",NA
+"China","Smarties",NA
+"India","Cadbury",916.6703005388
+"India","Kinder",230.150818449
+"India","Kit Kat",59.8942445555
+"India","Munch",42.5787763258
+"India","Toblerone",23.4849255991
+"India","Nestle",22.1820944598
+"India","Ferrero Rocher",22.1310128857
+"India","Snickers",18.4425110897
+"India","Amul",15.4529481495
+"India","LuvIt",14.270004102
+"India","Galak/Milkybar",7.9364267688
+"India","Mars",6.7127021481
+"India","Bar One",5.1668301396
+"India","Lindt",3.1927497197
+"India","Choco Swiss",2.694948253
+"India","After Eight",0.8129341813
+"Japan","Meiji",361.3566037131
+"Japan","Godiva",343.107919148
+"Japan","Kit Kat",169.1441930212
+"Japan","Ghana",158.5239822588
+"Japan","Mary",143.8227723936
+"Japan","Zero",131.9748704422
+"Japan","Look",111.4407688247
+"Japan","Morozoff",102.8970888832
+"Japan","Galbo",96.7062865198
+"Japan","Choco Ball",86.3305711099
+"Japan","Dars",84.0974885846
+"Japan","Crunky",83.8438724454
+"Japan","Carre de Chocolate",78.0900473305
+"Japan","Koeda",67.4317718506
+"Japan","Fujiya",57.1645605065
+"Japan","Cacao No Megumi",48.2053942445
+"Japan","Choco Egg",45.4562559417
+"Japan","Morinaga",37.6789628879
+"Japan","Black Thunder",35.5033876959
+"Japan","Mental Balance Chocolate GABA",26.5050121588
+"Japan","Snickers",19.8216189361
+"Japan","Lindt",18.5305579005
+"Japan","Crunch",18.1639932443
+"Japan","Hershey's",14.9751188631
+"Japan","Alphabet Chocolate",14.4909858391
+"Japan","M&M's",14.3903465195
+"Japan","Bon o Bon",13.5567993669
+"Japan","Lotte",13.2455183319
+"Japan","Maxim de Paris",10.6122122368
+"Japan","Ferrero Rocher",9.546465551
+"Japan","Lindor",7.935424099
+"Japan","Almond Peak",4.7738013383
+"Japan","Milky Way",4.5843019811
+"Japan","Kodawari Chocolat",NA
+"Japan","Kabaya",NA
+"Japan","Private label",133.5195297799
+"Australia","Cadbury",612.8205506782
+"Australia","Lindor",106.5578784752
+"Australia","Lindt",105.2841475151
+"Australia","Darrell Lea",99.3045980782
+"Australia","M&M's",86.5886877187
+"Australia","Ferrero Rocher",86.0258826578
+"Australia","Marvellous Creations",75.3117385277
+"Australia","Kit Kat",68.7250820874
+"Australia","Maltesers",59.8185173467
+"Australia","Mars",58.2268046845
+"Australia","Kinder",35.942336283
+"Australia","Snickers",29.1454811582
+"Australia","Whittakers",26.3473198581
+"Australia","Toblerone",24.2717638323
+"Australia","Smarties",23.2904733018
+"Australia","Pods",21.6260483225
+"Australia","Haigh's Chocolate",21.2928390805
+"Australia","Crunch",20.1601814919
+"Australia","Freddo",16.9009630111
+"Australia","Guylian",16.3735005264
+"Australia","Green & Black's",14.3385892776
+"Australia","Milky Way",13.8349052591
+"Australia","Galak/Milkybar",13.6209779948
+"Australia","Heritage",13.5099387343
+"Australia","Allen's",11.9207155506
+"Australia","Merci",11.5346684744
+"Australia","Hillier's",11.0209764266
+"Australia","Fry's Turkish Delight",11.0082133076
+"Australia","Twix",10.2476131037
+"Australia","Rolo",9.6556246394
+"Australia","Bounty",8.407750052
+"Australia","Chocolatier",6.7774047428
+"Australia","Mars Celebrations",6.1702137963
+"Australia","Ritter Sport",5.9238995068
+"Australia","Aero",5.9025265759
+"Australia","Sweet William",5.5789920964
+"Australia","Terry's",5.4923477205
+"Australia","Chokito",5.2941472699
+"Australia","Baci",5.0493849892
+"Australia","Menz",4.9159946094
+"Australia","Alter Eco",4.8743268535
+"Australia","Well Naturally",4.4646024814
+"Australia","Caramello",4.0450392192
+"Australia","Raffaello",3.7570424523
+"Australia","Peppermint Crisp",3.4459205978
+"Australia","Willie's Cacao",3.3201684191
+"Australia","Furry Friends",3.1490302411
+"Australia","Reese's",2.6171796903
+"Australia","Yan Yan",2.2313409059
+"Australia","Curly Wurly",1.3939333369
+"Australia","Chomp",1.0887209399
+"Australia","Violet Crumble",0.9837772683
+"Australia","Pascall",0.6940762674
+"Australia","Toffifee",0.3507776371
+"Australia","Crispello",NA
+"Australia","Wonka",NA
+"Australia","Lindt Hello",NA
+"Australia","Club",NA
+"Australia","Rondnoir",NA
+"Australia","Galaxy/Dove",NA
+"Australia","Ballantyne",NA
+"Australia","Milka",NA
+"Australia","Private label",145.519773011
+"Russia","Kinder",643.2488052777
+"Russia","Alpen Gold",549.0632179334
+"Russia","Alenka",328.8959404786
+"Russia","Snickers",326.7785255991
+"Russia","Babayevsky",290.2997984527
+"Russia","Krasny Oktyabr",286.3939105437
+"Russia","Raffaello",232.0503069884
+"Russia","Milka",228.8702097297
+"Russia","Dary Solntsa",203.2194882598
+"Russia","Konti",195.9375864417
+"Russia","A Korkunov",192.0829981443
+"Russia","M&M's",189.3635984519
+"Russia","Kit Kat",178.4957393245
+"Russia","Rot Front",157.5372049821
+"Russia","Vdokhnovenye",140.958783396
+"Russia","Twix",138.4191300504
+"Russia","Nesquik",131.2761638132
+"Russia","Galaxy/Dove",125.8240556651
+"Russia","Ritter Sport",121.4536409287
+"Russia","Vozdushny",120.8350279658
+"Russia","Bounty",101.6537598209
+"Russia","Chio Rio",90.9566045735
+"Russia","Mars",83.022797073
+"Russia","Merci",81.4271242165
+"Russia","Skazki Perro",74.9638310071
+"Russia","Russky Shokolad",72.9325692988
+"Russia","SladKo",66.6283413048
+"Russia","Ferrero Rocher",60.9287775659
+"Russia","Rodnye Prostory",51.4157380581
+"Russia","Puteshestvie",50.7075536842
+"Russia","Mishka na Severe",46.1862473318
+"Russia","Lindt",46.0638306421
+"Russia","AVK",45.4848005844
+"Russia","Yashkino",45.0283901256
+"Russia","Milky Way",44.5529114034
+"Russia","Ruzanna",44.0545715765
+"Russia","Krokant",38.6403476192
+"Russia","Slavyanka",35.176185265
+"Russia","Sudarushka",30.6403110716
+"Russia","Chupa Chups",29.5768768877
+"Russia","Konfitreid",29.24392628
+"Russia","Glays",26.9320723454
+"Russia","Rossiyskiy",25.4616673132
+"Russia","Chudo",25.1484587315
+"Russia","Kofe s Molokom",23.3038969127
+"Russia","Komilfo",20.8380895141
+"Russia","Zebra",19.0225658248
+"Russia","Fruzhe",18.5810835009
+"Russia","O'Zera",18.0545692093
+"Russia","Assorti",17.8935828599
+"Russia","Fruktovichi",17.579212753
+"Russia","Tretyakovskaya Gallereya",17.5538295907
+"Russia","Sharmel",16.8695299726
+"Russia","Toffifee",14.2695657653
+"Russia","Sormovskaya",13.1009946924
+"Russia","Nestle",12.3633351538
+"Russia","Sovershenstvo",12.2992795765
+"Russia","Cadbury",11.8320837125
+"Russia","Zolotaya Marka",11.0046186369
+"Russia","Etre",10.5018674856
+"Russia","Sprint",9.0997706696
+"Russia","Kolektsia",8.3805381492
+"Russia","Shokotel",4.9222956063
+"Russia","Landrin",NA
+"Russia","Roshen",NA
+"Russia","Buckwood",NA
+"Russia","Amour",NA
+"Russia","For Men",NA
+"Russia","Classic",NA
+"Russia","Shok",NA
+"Russia","Krasnaya Shapochka",NA
+"Russia","Vivat",NA
+"Russia","Private label",129.5523199698
+"Argentina","Cofler",144.8083048335
+"Argentina","Bon o Bon",142.9111364041
+"Argentina","Kinder",93.7189572849
+"Argentina","Rocklets",77.8955287723
+"Argentina","Milka",62.8153905366
+"Argentina","Arcor",36.5067139141
+"Argentina","Cadbury",33.0251601542
+"Argentina","Garoto",26.4158429709
+"Argentina","Hamlet",23.9289380641
+"Argentina","Tofi",20.5461249877
+"Argentina","Rhodesia",19.889024482
+"Argentina","Shot",19.3505214017
+"Argentina","Marroc",18.9244747961
+"Argentina","Chocolateria Georgalos",18.4452203801
+"Argentina","Georgalos",15.1483480837
+"Argentina","Gallo Snacks",15.1020519709
+"Argentina","Terrabusi",15.0291525786
+"Argentina","Aguila",14.8817910296
+"Argentina","M&M's",13.1642604262
+"Argentina","Dos Corazones",12.4030640475
+"Argentina","Ferrero Rocher",12.1760528149
+"Argentina","Bonafide",11.5087023766
+"Argentina","Kit Kat",10.0842345123
+"Argentina","Cabsha",8.8534355706
+"Argentina","Felfort",7.8338782052
+"Argentina","Toys",7.4410950832
+"Argentina","Jacky Bijou",6.7124683908
+"Argentina","Nugaton",5.868294729
+"Argentina","Misky",5.5193234373
+"Argentina","Bocadito",4.6897764493
+"Argentina","Noel",2.8693064061
+"Argentina","After Eight",2.3113860723
+"Argentina","Hello Kitty",2.2927947753
+"Argentina","Lindt",1.495558629
+"Argentina","Namur",1.3634176105
+"Argentina","Mani",1.3328691016
+"Argentina","Dolca",1.0570221077
+"Argentina","Toblerone",0.6053451184
+"Argentina","Classic",0.5251560058
+"Argentina","Especial",NA
+"Argentina","Baci",NA
+"Argentina","Toke",NA
+"Argentina","Fenoglio",NA
+"Argentina","Jackeline",NA
+"Argentina","Barbie",NA
+"Argentina","Ben 10",NA
+"Brazil","Lacta",441.5451534088
+"Brazil","Cacau Show",398.2866914946
+"Brazil","Garoto",354.0107953006
+"Brazil","Lacta Brazil",309.0167955887
+"Brazil","Bis",227.5151740538
+"Brazil","Especialidades",172.956587073
+"Brazil","Alpino",119.1734485548
+"Brazil","Hershey's",117.6044245097
+"Brazil","Ferrero Rocher",116.3807056803
+"Brazil","Classic",111.8311269384
+"Brazil","Kinder",105.0824814557
+"Brazil","Kopenhagen",98.7885346414
+"Brazil","Talento",94.4230870005
+"Brazil","Kit Kat",85.1546163425
+"Brazil","M&M's",81.4683049602
+"Brazil","Serenata de Amor",49.1426908921
+"Brazil","Arcor",49.0124443395
+"Brazil","Chocolates Brasil Cacau",42.6442264472
+"Brazil","Galak/Milkybar",41.6307450546
+"Brazil","Chokito",29.9145235309
+"Brazil","Tortuguita",26.2797098444
+"Brazil","Crunch",24.853045899
+"Brazil","Twix",21.9482203125
+"Brazil","Snickers",19.434143024
+"Brazil","Prestigio",18.8646875045
+"Brazil","Bon o Bon",16.9473233767
+"Brazil","It Coco",15.7145161469
+"Brazil","Charge",11.5253910349
+"Brazil","Neugebauer",10.6288027804
+"Brazil","Hello Kitty",8.8992375145
+"Brazil","Cadbury",7.3877603786
+"Brazil","Lindt",6.3003448754
+"Brazil","Pan",4.3224000514
+"Brazil","Stickadinho",3.8529037066
+"Brazil","Rocklets",2.9169388637
+"Brazil","Suflair",1.5993184433
+"Brazil","Mundy",NA
+"Brazil","Milka",NA
+"Brazil","Sem Parar",NA
+"Brazil","Bono",NA
+"Brazil","Samba",NA
+"Brazil","Surpresa",NA
+"Brazil","Hi Hi Puffy Ami Yumi",NA
+"Brazil","Private label",27.9002294253
+"Chile","Sahne Nuss",95.5452500293
+"Chile","Super 8",38.1142308236
+"Chile","Ambrosoli",35.7221376389
+"Chile","Trencito",34.2664712633
+"Chile","Vizzio",23.1128981641
+"Chile","M&M's",15.2382828653
+"Chile","Costa",15.0374385724
+"Chile","Rolls",14.7771153926
+"Chile","Snickers",14.6442598873
+"Chile","Capri",13.0859561317
+"Chile","Rocklets",11.2580627122
+"Chile","Milka",11.0844467772
+"Chile","Negrita",9.0729037181
+"Chile","Toblerone",8.5611116442
+"Chile","Prestigio",5.9937929566
+"Chile","Carezza",5.9856174684
+"Chile","Bon o Bon",5.6421645262
+"Chile","Lindt",5.5417117973
+"Chile","In Kat",5.1527810817
+"Chile","Chubi",5.0412545122
+"Chile","Kit Kat",4.8766959703
+"Chile","Hobby",4.7486881166
+"Chile","Golpe",4.5356430861
+"Chile","Nestle",4.5034281258
+"Chile","Tuyo",4.0782279477
+"Chile","Nikolo",3.6889315723
+"Chile","Dos en Uno",3.1229773049
+"Chile","Milk",2.9649880074
+"Chile","Tifany's",2.9502851595
+"Chile","Ritter Sport",2.9031998127
+"Chile","Mantecol",2.8520632878
+"Chile","Loly",2.8229600924
+"Chile","Hershey's",2.7888995474
+"Chile","Arcor",2.7328960906
+"Chile","Caja Roja",2.724649465
+"Chile","After Eight",2.5652591919
+"Chile","Golazo",2.5352845627
+"Chile","Milky Way",2.0236382541
+"Chile","Privilegio",1.8456826022
+"Chile","Garoto",1.4799217533
+"Chile","Calaf",1.1963816697
+"Chile","Cadbury",0.9697871986
+"Chile","Picnic",0.7469244519
+"Chile","Cabsha",0.3720669845
+"Chile","Ferrero Rocher",NA
+"Chile","Kinder",NA
+"Colombia","Jet",89.8149073895
+"Colombia","Mont Blanc",13.5709309181
+"Colombia","Ferrero Rocher",9.8028694172
+"Colombia","Kinder",9.7995862409
+"Colombia","Gol",6.1686198633
+"Colombia","Choco Break",6.0301704931
+"Colombia","Snickers",5.8694815238
+"Colombia","Milky Way",5.0567926899
+"Colombia","Kick",5.0200307268
+"Colombia","Mini Jet",4.3180340055
+"Colombia","Muuu",4.1536212364
+"Colombia","Choco Disk",4.038190271
+"Colombia","M&M's",3.0348541162
+"Colombia","Italo",2.8525682715
+"Colombia","Goleador",2.1120830107
+"Colombia","Twix",2.0236311294
+"Colombia","Golpe",1.8273983618
+"Colombia","Roletto",1.7272000193
+"Colombia","Triunfo",1.5010771941
+"Colombia","Nestle",1.4047042073
+"Colombia","Choco Lyne",1.3571100389
+"Colombia","Kit Kat",1.2119242131
+"Colombia","3 Musketeers",1.0015756843
+"Colombia","Nikolo",0.9625457243
+"Colombia","Lindt",0.8750077194
+"Colombia","Quimbaya",0.749929325
+"Colombia","Moments",0.7023013257
+"Colombia","Toblerone",0.6110058166
+"Colombia","Crunch",0.1377048063
+"Mexico","Kinder",157.4704377915
+"Mexico","Carlos V",126.3325161783
+"Mexico","Hershey's",123.1402952218
+"Mexico","Ricolino",98.5453990371
+"Mexico","Snickers",74.1292667323
+"Mexico","M&M's",59.4049755436
+"Mexico","Milky Way",55.7385005967
+"Mexico","Larin",34.0661495644
+"Mexico","Turin",31.8343344668
+"Mexico","Ferrero",26.15509446
+"Mexico","Crunch",17.6514738649
+"Mexico","Nestle",13.1671811673
+"Mexico","Freskas",13.0452581328
+"Mexico","Grezon Brands",10.4797065313
+"Mexico","Cajetoso",9.9155531062
+"Mexico","Lindt",9.5890473853
+"Mexico","Cadbury",9.298704579
+"Mexico","Tin Larin",7.822195802
+"Mexico","Bon o Bon",7.7880983662
+"Mexico","Kit Kat",7.0730917034
+"Mexico","Vaquitas",5.5593843795
+"Mexico","Almon-Ris",4.9136053278
+"Mexico","La Corona",3.6633767288
+"Mexico","La Suiza",3.3921494049
+"Mexico","Andineta",3.242845437
+"Mexico","Twix",2.9070402401
+"Mexico","Almond Joy",2.1615524973
+"Mexico","Giselle",1.346320613
+"Mexico","Toblerone",1.1928835179
+"Mexico","La Cubana",0.8937584892
+"Mexico","3 Musketeers",0.2980917067
+"Mexico","De Viller",NA
+"Mexico","Butterfinger",NA
+"Peru","Sublime",73.1629235432
+"Peru","Nestle",16.5874977736
+"Peru","Princessa",11.8403919963
+"Peru","Lacta",6.2275216475
+"Peru","Canonazo",6.2007794779
+"Peru","Vizzio",4.8037851665
+"Peru","Mecano",4.391581005
+"Peru","Fino's",3.7740782713
+"Peru","Chin Chin",3.6833902518
+"Peru","Montblanc",3.5530571771
+"Peru","Costa",3.4552424686
+"Peru","Beso de Mosa",3.065093739
+"Peru","Bazo Velarde",2.3950966949
+"Peru","Tuyo",2.3449737551
+"Peru","Sapito",2.2881579165
+"Peru","Lentejitas",2.081151948
+"Peru","La Iberica",2.0475047305
+"Peru","Golpe",2.0287791368
+"Peru","Bon o Bon",1.7313128412
+"Peru","Winter's",1.6820602108
+"Peru","Mostro",1.6163000596
+"Peru","Privilegio",1.5054294049
+"Peru","Nikolo",1.4034427879
+"Peru","Winter's Chocopunch",1.392637781
+"Peru","D'leche",1.0761427369
+"Peru","Tesoros del Inca",1.0609859456
+"Peru","Kinder",0.937477117
+"Peru","Fochis",0.8860640192
+"Peru","Hershey's",0.8071076162
+"Peru","Crunch",0.773904393
+"Peru","Rocklets",0.7467249923
+"Peru","Bombon Corazon",0.6782205484
+"Peru","Ambrosoli",0.6422714308
+"Peru","Chocotrueno",0.5676499636
+"Peru","Chocolate con licor",0.5471505287
+"Peru","Toys",0.5389260752
+"Peru","Snickers",0.4046152949
+"Peru","Milky Way",0.2454824095
+"Peru","Papillon",0.245002182
+"Peru","Twix",0.1461068987
+"Peru","Ensueno",NA
+"Peru","Winteritos",NA
+"South Africa","Cadbury",214.0595627309
+"South Africa","Lindt",36.245612316
+"South Africa","Kit Kat",28.3350016633
+"South Africa","Bar One",26.9042248229
+"South Africa","Beacon",22.0997242143
+"South Africa","Tex",15.6263331238
+"South Africa","Ferrero Rocher",12.2856573632
+"South Africa","Classic",8.3313767009
+"South Africa","Galak/Milkybar",7.5213815613
+"South Africa","Peppermint",7.4344318008
+"South Africa","Aero",7.2941586933
+"South Africa","Marshmallow Eggs",6.6384775327
+"South Africa","TV Bar",5.6108914356
+"South Africa","Black Cat",5.6108914356
+"South Africa","Snickers",5.049802465
+"South Africa","Mars",4.2923322509
+"South Africa","Passions",3.9379732148
+"South Africa","Twix",3.927623832
+"South Africa","Canderel",3.5129836276
+"South Africa","Smarties",2.5497479501
+"South Africa","Fav'rites",2.08794622
+"South Africa","Milo",1.967130658
+"South Africa","Bounty",1.963811916
+"South Africa","Toblerone",1.504276416
+"South Africa","Quality Street",1.3946988613
+"South Africa","Hen's Eggs",1.2696464418
+"South Africa","Nestle",1.2296125056
+"South Africa","Cote d'Or",0.9626270887
+"South Africa","Anytime",0.8499159545
+"South Africa","M&M's",0.8068042212
+"South Africa","Kinder",0.7774545344
+"South Africa","Inside Story",0.2805445718
+"South Africa","Milky Way",NA
+"South Africa","St Chocolat",NA
+"South Africa","After Eight",NA
+"South Africa","Superfine",NA
+"South Africa","Private label",26.4309117092
+"United Arab Emirates","Galaxy/Dove",51.8501638554
+"United Arab Emirates","Kinder",38.0369033241
+"United Arab Emirates","Cadbury",34.3342221233
+"United Arab Emirates","Kit Kat",27.9972784491
+"United Arab Emirates","Ferrero Rocher",22.2178384534
+"United Arab Emirates","Snickers",21.8817070435
+"United Arab Emirates","M&M's",21.3832547463
+"United Arab Emirates","Lindt",17.6116971179
+"United Arab Emirates","Twix",16.742592148
+"United Arab Emirates","Bounty",11.3359523613
+"United Arab Emirates","Maltesers",10.2274950353
+"United Arab Emirates","Quality Street",9.7220160786
+"United Arab Emirates","Mars",9.2625146198
+"United Arab Emirates","Best of our Minis",8.5718176515
+"United Arab Emirates","Lindor",7.8224213572
+"United Arab Emirates","Time Out",5.7160330606
+"United Arab Emirates","Raffaello",5.3683483746
+"United Arab Emirates","Toblerone",4.4581748193
+"United Arab Emirates","Tiffany Break",4.3076924629
+"United Arab Emirates","Kisses",3.6690511341
+"United Arab Emirates","Lion",2.9807217366
+"United Arab Emirates","Galaxy Minstrels",1.5538606692
+"United Arab Emirates","Merci",1.5497021308
+"United Arab Emirates","Smarties",1.0863150891
+"United Arab Emirates","Canderel",0.9762995522
+"United Arab Emirates","Reese's",0.9255238362
+"United Arab Emirates","Disney",0.8067760907
+"United Arab Emirates","Toffifee",0.664158048
+"United Arab Emirates","Ulker",0.4242218671
+"Canada","Cadbury",253.5304722583
+"Canada","Hershey's",169.6826817552
+"Canada","Lindt",105.4842195888
+"Canada","Kit Kat",104.6817342596
+"Canada","Laura Secord",103.7722452218
+"Canada","Lindor",81.3180723088
+"Canada","Ferrero Rocher",77.0611030411
+"Canada","Reese's",72.1239288594
+"Canada","Coffee Crisp",68.9140118205
+"Canada","Oh Henry!",57.824488555
+"Canada","Delecto",55.7533204
+"Canada","Favourites",51.0683605753
+"Canada","Kinder",50.7015071911
+"Canada","M&M's",45.4662824637
+"Canada","Turtles",40.5520354805
+"Canada","Smarties",40.001767543
+"Canada","Aero",32.1374501617
+"Canada","Godiva",27.4601347596
+"Canada","Russell Stover",26.9251465633
+"Canada","Glosette",23.3330903297
+"Canada","Brookside",22.7369619258
+"Canada","Mars",20.1919518515
+"Canada","Ritter Sport",16.9973100017
+"Canada","Snickers",16.8138863443
+"Canada","Black Magic",14.8115058543
+"Canada","After Eight",14.5516561788
+"Canada","Toblerone",11.6780087641
+"Canada","Allan",10.0424763475
+"Canada","Maltesers",9.5609877295
+"Canada","Twix",8.1929486523
+"Canada","Crunch",7.6273903523
+"Canada","Petits Desserts",7.1917584073
+"Canada","Quality Street",6.6796981682
+"Canada","Galaxy/Dove",5.2810889873
+"Canada","Awake",5.2810889873
+"Canada","Guylian",4.9753822594
+"Canada","Rolo",4.5779629441
+"Canada","Cote d'Or",3.6761270538
+"Canada","Whoppers",2.8048620258
+"Canada","Milky Way",2.6978645762
+"Canada","Bounty",2.5220830655
+"Canada","Rewards",2.2163761479
+"Canada","Noir",NA
+"Canada","Clodhoppers",NA
+"Canada","Private label",81.8759846689
+"USA","Reese's",2390.6399490592
+"USA","M&M's",2140.3199866344
+"USA","Hershey's",2021.3399056515
+"USA","Snickers",1065.9399018618
+"USA","Kit Kat",873.289976868
+"USA","Mars",553.219968608
+"USA","Ghirardelli",545.3600065021
+"USA","Russell Stover",471.1700003423
+"USA","Galaxy/Dove",451.1599915047
+"USA","Twix",422.2000236907
+"USA","Lindt",410.3900082969
+"USA","See's",401.0199999837
+"USA","Godiva",395.3200271195
+"USA","Ferrero Rocher",378.6199953148
+"USA","Butterfinger",271.7999858919
+"USA","Lindor",252.5599922436
+"USA","Almond Joy",219.6100072991
+"USA","York",217.349995559
+"USA","Cadbury",197.5300068901
+"USA","Milky Way",192.9000038185
+"USA","Palmer",171.1499986299
+"USA","3 Musketeers",163.8000045065
+"USA","Brookside",133.3200108137
+"USA","Nestle",116.7900059673
+"USA","Fannie May",113.320004226
+"USA","Crunch",93.210001113
+"USA","barkTHINS",87.489995526
+"USA","Nutella",84.9400032094
+"USA","Whitman's",82.4400052083
+"USA","Rolo",80.2900012827
+"USA","Flipz",73.4100056546
+"USA","Harry & David",65.3199974468
+"USA","Rocky Mountain",59.5899952546
+"USA","Toblerone",49.4000000152
+"USA","Turtles",45.9300010962
+"USA","Junior Mints",44.8300019757
+"USA","100 Grand",44.160000818
+"USA","Theo",44.0800025753
+"USA","Andes",42.349997185
+"USA","Justin's",35.9700011571
+"USA","Baby Ruth",34.9500002792
+"USA","Snappers",33.7500012387
+"USA","Brach's",33.6100007862
+"USA","Green & Black's",28.6299979943
+"USA","Snacksters",7.5300000474
+"USA","Private label",230.1800146529
+"France","Kinder",655.9618284489
+"France","Cote d'Or",236.8683585323
+"France","Milka",234.5717682693
+"France","M&M's",226.4564507076
+"France","Ferrero Rocher",192.3941314046
+"France","Mon Cheri",159.1598923958
+"France","Lindt",140.5332752592
+"France","Excellence",134.1514327534
+"France","Nestle",113.8906946152
+"France","Twix",94.6016019345
+"France","Champs Elysees",80.049204682
+"France","Jacquot",74.3077478725
+"France","Lindor",72.9275910125
+"France","Poulain",72.6515558709
+"France","Cemoi",68.7871078674
+"France","Mars",48.9569898275
+"France","Lanvin",45.6004449766
+"France","Kit Kat",39.6823227864
+"France","Smarties",37.8715552521
+"France","Petits Desserts",33.2673455087
+"France","Ritter Sport",22.1819109334
+"France","Bouquet d'Or",20.1282351761
+"France","Snickers",20.0399040564
+"France","Crunch",18.8253645118
+"France","Celebrations",16.0760894332
+"France","Maltesers",15.1375803182
+"France","Bounty",14.6738474374
+"France","Ferrero Garden",14.243236763
+"France","Duplo",12.0791486768
+"France","Quality Street",11.5712502361
+"France","Toblerone",11.3725083583
+"France","After Eight",10.8204443577
+"France","Balisto",10.7983615778
+"France","Creation",10.2683811426
+"France","Les Connaisseurs",10.2131738001
+"France","Magnum",10.1248442511
+"France","Lion",9.4402859271
+"France","Rocher Suchard",7.5853520477
+"France","Maxi Plaisir",5.4102221789
+"France","Raffaello",4.9685712926
+"France","Galak/Milkybar",4.7477458495
+"France","Ferrero Prestige",4.6373327352
+"France","Suchard",4.5269204063
+"France","Chocoletti",3.8092383051
+"France","Noir",NA
+"France","Private label",338.7461590931
+"Germany","Milka",748.6026417539
+"Germany","Lindt",653.351407207
+"Germany","Kinder",565.4868345173
+"Germany","Ritter Sport",480.4654055131
+"Germany","Merci",193.0825631429
+"Germany","Mon Cheri",191.639700983
+"Germany","Duplo",181.1043930943
+"Germany","Hanuta",169.6044236731
+"Germany","Trumpf",135.2494814538
+"Germany","Snickers",134.111893203
+"Germany","Ferrero Rocher",130.9387678754
+"Germany","Lindor",130.131243504
+"Germany","Ferrero Kusschen",118.8458676881
+"Germany","Toffifee",107.5466029098
+"Germany","Knoppers",105.9879141141
+"Germany","M&M's",102.5786216024
+"Germany","Kit Kat",99.2650167309
+"Germany","Raffaello",97.5769230114
+"Germany","Celebrations",89.5643166902
+"Germany","Yogurette",87.145992502
+"Germany","Die Besten von Ferrero",84.7732917275
+"Germany","Twix",84.5170860602
+"Germany","Mars",80.2273521249
+"Germany","Sarotti",70.8930968211
+"Germany","After Eight",67.6069774751
+"Germany","Choco Crossies",61.8742534552
+"Germany","Lion",57.2181113328
+"Germany","Toblerone",54.3360282968
+"Germany","Galaxy/Dove",45.9785645238
+"Germany","Dickmann's",44.2701764718
+"Germany","Bounty",44.0240494396
+"Germany","Balisto",40.2335186185
+"Germany","Excellence",39.0970634147
+"Germany","Smarties",37.0677718022
+"Germany","Werther's Original",36.9013052789
+"Germany","Milky Way",35.003833168
+"Germany","Grabower",32.0945432996
+"Germany","Gubor",24.2467884529
+"Germany","Alpia Diat",23.6361332692
+"Germany","Die Weisse",23.0551817331
+"Germany","Kinder Bueno Mini",20.5406467841
+"Germany","Halloren Kugeln",17.9265990192
+"Germany","Riesen",13.7887424859
+"Germany","Hachez",13.5033265947
+"Germany","Fioretto",13.2444436471
+"Germany","Nutella",11.5332252622
+"Germany","Maltesers",9.98832149
+"Germany","Giotto",8.8963595084
+"Germany","Marabou",8.3043470585
+"Germany","Ferrero Rondnoir",7.4539131036
+"Germany","Quadrago",NA
+"Germany","Ferrero Garden",NA
+"Germany","Chocolat Pavot",NA
+"Germany","Private label",1320.3723311234
+"Italy","Kinder",442.2423713626
+"Italy","Perugina",191.4624348513
+"Italy","Lindt",109.6592443902
+"Italy","Novi",83.9574651872
+"Italy","Lindor",72.840596906
+"Italy","Ferrero Rocher",71.6865296381
+"Italy","Ferrero Pocket Coffee",58.1745225855
+"Italy","Bauli",45.1951197358
+"Italy","Ritter Sport",43.8176169657
+"Italy","Milka",40.7467660695
+"Italy","Caffarel",40.0880695242
+"Italy","Mon Cheri",35.7880093153
+"Italy","Witor's",34.4042403806
+"Italy","Dolci Preziosi",32.2672384087
+"Italy","M&M's",30.5886333265
+"Italy","Excellence",25.9276257196
+"Italy","Kit Kat",25.1314469526
+"Italy","Motta",22.2026703332
+"Italy","Sperlari",21.5348366615
+"Italy","Ferrero Prestige",15.6765366265
+"Italy","Mars",15.0596260513
+"Italy","Galak/Milkybar",14.3827652945
+"Italy","Pernigotti",14.0291337796
+"Italy","Duplo",13.9645297222
+"Italy","Walcor",12.4539265944
+"Italy","Balocco",11.6655792966
+"Italy","Twix",11.440736751
+"Italy","Chupa Chups",9.7697102907
+"Italy","Rondnoir",9.661996678
+"Italy","Vanini",9.3839758103
+"Italy","Bounty",8.4545742803
+"Italy","Smarties",8.1366078501
+"Italy","Feletti",7.1553058355
+"Italy","Baule Volante",4.822495495
+"Italy","La Fabbrica di Cioccolato Leone",4.7425011291
+"Italy","Lion",4.4701946746
+"Italy","Kinder Bueno Dark",4.4385906036
+"Italy","Stella",4.4272180343
+"Italy","Altromercato",3.4794105732
+"Italy","Snickers",3.1550092075
+"Italy","Toblerone",3.0984798844
+"Italy","Loacker",2.6198796216
+"Italy","Nutella",2.380317215
+"Italy","Sorini",1.0839142454
+"Italy","Cote d'Or",NA
+"Italy","Private label",132.4772822494
+"Portugal","Kinder",34.1369938768
+"Portugal","Milka",26.1740025585
+"Portugal","Ferrero Rocher",22.8735583319
+"Portugal","Regina",17.9860496559
+"Portugal","Guylian",13.2802180113
+"Portugal","Classic",12.410386381
+"Portugal","Mon Cheri",9.0541144163
+"Portugal","Cadbury",8.5348470258
+"Portugal","Baci",8.0414839591
+"Portugal","Jubileu",7.8651077984
+"Portugal","After Eight",6.7548456127
+"Portugal","Kit Kat",6.4255835102
+"Portugal","Lindt",5.0062503852
+"Portugal","Claudias",4.8548976466
+"Portugal","Amendoas",4.6745182243
+"Portugal","M&M's",4.6012392105
+"Portugal","Crunch",4.0828803304
+"Portugal","Caja Roja",3.3952933662
+"Portugal","Snickers",3.2527194583
+"Portugal","Twix",2.7969276001
+"Portugal","Mars",2.7547707704
+"Portugal","Jacquot",2.6865045764
+"Portugal","Fantasias",2.5329902606
+"Portugal","Maltesers",1.9840615544
+"Portugal","Avianense",1.4507124381
+"Portugal","Galaxy/Dove",1.4057700746
+"Portugal","Smarties",1.3747329253
+"Portugal","Canderel",0.9289779342
+"Portugal","Nesquik",0.6142003684
+"Portugal","Kaoka",0.4990377591
+"Portugal","Lion",0.3642411761
+"Portugal","NewTree",0.345487713
+"Portugal","Mauri",0.2336023485
+"Portugal","Galak/Milkybar",0.2303250806
+"Portugal","Toblerone",0.0833931622
+"Portugal","Cote d'Or",NA
+"Portugal","Mon Desir",NA
+"Portugal","Evernat",NA
+"Portugal","Nestle",NA
+"Portugal","Private label",31.6974949599
+"United Kingdom","Cadbury",1977.7719232974
+"United Kingdom","Galaxy/Dove",404.0154476225
+"United Kingdom","Maltesers",317.1545641398
+"United Kingdom","Kit Kat",284.4698548166
+"United Kingdom","Thorntons",284.0143763474
+"United Kingdom","Mars",199.7671125051
+"United Kingdom","Kinder",189.7924636084
+"United Kingdom","Lindor",156.013438307
+"United Kingdom","Terry's",155.2477410515
+"United Kingdom","Celebrations",145.447383058
+"United Kingdom","Quality Street",143.8071709082
+"United Kingdom","M&M's",140.3595840331
+"United Kingdom","Snickers",126.1794102421
+"United Kingdom","Green & Black's",125.8619124636
+"United Kingdom","Smarties",111.4416355092
+"United Kingdom","Rolo",111.119184626
+"United Kingdom","Twix",105.537497029
+"United Kingdom","Lindt",105.1514185251
+"United Kingdom","Ferrero Rocher",103.2709619638
+"United Kingdom","Aero",102.851690125
+"United Kingdom","Galak/Milkybar",94.1676451679
+"United Kingdom","Galaxy Minstrels",78.5885300424
+"United Kingdom","Milky Way",64.7541884255
+"United Kingdom","Nestle",57.5038177433
+"United Kingdom","Bounty",56.9442204931
+"United Kingdom","Black Magic",37.1717301756
+"United Kingdom","Revels",35.5124824723
+"United Kingdom","Kinnerton",34.5483903026
+"United Kingdom","Toblerone",31.2468658713
+"United Kingdom","Bon Bon Buddies",29.9348816575
+"United Kingdom","After Eight",28.6911556524
+"United Kingdom","Reese's",27.1064987869
+"United Kingdom","McVitie's",22.3369908848
+"United Kingdom","Dairy Box",19.4622385734
+"United Kingdom","Nutella",17.9148253358
+"United Kingdom","Yorkie",13.6983336932
+"United Kingdom","Elizabeth Shaw",13.50472474
+"United Kingdom","Raffaello",13.1198539084
+"United Kingdom","Bendicks",9.3529636315
+"United Kingdom","Boots Diabetic",8.7843406193
+"United Kingdom","Paynes Poppets",7.2020178808
+"United Kingdom","Toffee Crisp",5.5690458801
+"United Kingdom","Harry Potter",NA
+"United Kingdom","Suchard",NA
+"United Kingdom","Private label",741.4359315952
